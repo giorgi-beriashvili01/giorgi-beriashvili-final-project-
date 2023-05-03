@@ -412,10 +412,8 @@ figcaption {
 .section_4_arrow_div {
     width: 44px;
     height: 44px;
+    padding: 10px 13px;
     background-color: #B53B1B;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     transition-property: all;
     transition-duration: 1s;
     transition-timing-function: linear;
@@ -580,10 +578,11 @@ article {
 
 footer {
     width: 100%;
-    padding: 32px 19% 56px 19%;
+    padding: 32px 0 56px 0;
     background-color: #402101;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 15.8%;
 }
 
 .footer_left_div {
