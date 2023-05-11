@@ -154,6 +154,7 @@
     .article_question{
         text-align: center;
         margin-bottom: 13px;
+        width: 85%;
     }
     footer {
         gap: 7%;

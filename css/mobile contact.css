@@ -91,4 +91,10 @@
         width: 440px;
         top: 128px;
     }
+    .form_header{
+        font-size: 2rem;
+    }
+    .contact_title{
+        font-size: 2rem;
+    }
 }
